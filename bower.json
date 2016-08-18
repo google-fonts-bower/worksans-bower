@@ -1,0 +1,17 @@
+{
+    "name": "worksans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Wei Huang"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/worksans-bower.git"
+    },
+    "description": "Work Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
